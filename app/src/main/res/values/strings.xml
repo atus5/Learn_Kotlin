@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Câu cá play mon tơ đơ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="underlined_text"><u>Chia sẻ</u></string>
+    <!--Giới thiệu-->
+    <string name="gt_text"><b>Chào mừng đến với Nhà trọ Budai - Ngôi nhà thứ hai của bạn! 🏡</b></string>
+    <!--Chính sách bảo mật-->
+    <string name="secure_text"><b>Chính sách bảo mật 🏡</b></string>
+    <!-- Điều 1 -->
+    <string name="dieu_1_title">Điều 1: Mục đích và Phạm vi Thu thập Thông tin</string>
+    <string name="dieu_1_content">Chúng tôi thu thập thông tin cá nhân của bạn nhằm các mục đích sau:\n\n
+        • <b>Xác minh danh tính và ký kết hợp đồng thuê trọ:</b> Đảm bảo tính pháp lý và minh bạch cho cả hai bên.\n
+        • <b>Quản lý việc thuê trọ:</b> Theo dõi tình trạng hợp đồng, thanh toán tiền thuê và các chi phí dịch vụ liên quan (điện, nước, internet, v.v.).\n
+        • <b>Đăng ký tạm trú, tạm vắng:</b> Thực hiện nghĩa vụ khai báo với cơ quan công an địa phương theo quy định của pháp luật Việt Nam.\n
+        • <b>Đảm bảo an ninh, an toàn:</b> Quản lý ra vào (khóa vân tay, thẻ từ), giám sát khu vực chung qua hệ thống camera, quản lý phương tiện tại bãi giữ xe.\n
+        • <b>Liên lạc và hỗ trợ:</b> Gửi các thông báo quan trọng, giải quyết các yêu cầu, sự cố hoặc khiếu nại phát sinh trong quá trình thuê trọ.\n\n
+        <b>Các thông tin chúng tôi thu thập bao gồm:</b>\n
+        • <b>Thông tin định danh:</b> Họ và tên, ngày tháng năm sinh, số Căn cước công dân (CCCD)/Chứng minh nhân dân (CMND), quê quán, địa chỉ thường trú.\n
+        • <b>Thông tin liên lạc:</b> Số điện thoại, địa chỉ email, Zalo (nếu có).\n
+        • <b>Thông tin về phương tiện:</b> Biển số xe (nếu bạn đăng ký gửi xe tại nhà trọ).\n
+        • <b>Dữ liệu an ninh:</b> Hình ảnh/video từ camera an ninh tại các khu vực chung (hành lang, nhà xe, cổng ra vào), dữ liệu vân tay (nếu sử dụng khóa vân tay).\n
+        • <b>Thông tin trong hợp đồng:</b> Các chi tiết được ghi trong hợp đồng thuê trọ.</string>
+
+    <!-- Điều 2 -->
+    <string name="dieu_2_title">Điều 2: Phạm vi Sử dụng Thông tin</string>
+    <string name="dieu_2_content">Chúng tôi cam kết chỉ sử dụng thông tin cá nhân của bạn đúng với các mục đích đã nêu tại Điều 1. Chúng tôi tuyệt đối không sử dụng thông tin của bạn cho các mục đích thương mại, mua bán, hoặc chia sẻ với bất kỳ bên thứ ba nào không liên quan.</string>
+
+    <!-- Điều 3 -->
+    <string name="dieu_3_title">Điều 3: Thời gian Lưu trữ Thông tin</string>
+    <string name="dieu_3_content">• Thông tin cá nhân trong hợp đồng và các giấy tờ liên quan sẽ được lưu trữ trong suốt thời gian hiệu lực của hợp đồng và thêm một khoảng thời gian hợp lý sau khi hợp đồng chấm dứt (thường là 06 tháng) để giải quyết các vấn đề còn tồn đọng (nếu có).\n
+        • Dữ liệu từ camera an ninh được lưu trữ theo chu kỳ (thường từ 15-30 ngày) và sẽ được ghi đè tự động.\n
+        • Sau khi hết thời hạn lưu trữ và mục đích sử dụng đã hoàn thành, chúng tôi sẽ tiến hành xóa hoặc hủy thông tin của bạn một cách an toàn.</string>
+
+    <!-- Điều 4 -->
+    <string name="dieu_4_title">Điều 4: Cam kết Bảo mật Thông tin</string>
+    <string name="dieu_4_content">Chúng tôi chịu trách nhiệm bảo mật thông tin cá nhân của bạn bằng các biện pháp vật lý và kỹ thuật phù hợp:\n\n
+        • <b>Bản cứng (hợp đồng, bản photo CCCD)</b> được lưu trữ trong tủ hồ sơ có khóa.\n
+        • <b>Dữ liệu điện tử</b> được lưu trữ an toàn và chỉ những người có thẩm quyền (chủ nhà/quản lý) mới được phép truy cập.\n\n
+        Chúng tôi chỉ tiết lộ thông tin của bạn trong các trường hợp thật sự cần thiết sau:\n
+        1. Khi có yêu cầu bằng văn bản từ các cơ quan nhà nước có thẩm quyền (ví dụ: Công an, Tòa án).\n
+        2. Để bảo vệ quyền lợi chính đáng của chúng tôi trước pháp luật.\n
+        3. Khi có sự đồng ý rõ ràng từ chính bạn.</string>
+
+    <!-- Điều 5 -->
+    <string name="dieu_5_title">Điều 5: Quyền và Trách nhiệm của Khách thuê</string>
+    <string name="dieu_5_content"><b>Quyền của bạn:</b>\n
+        • Được biết về việc thông tin cá nhân của mình được thu thập và sử dụng như thế nào.\n
+        • Yêu cầu truy cập, xem lại, và chỉnh sửa thông tin cá nhân nếu phát hiện sai sót.\n
+        • Khiếu nại nếu cho rằng thông tin của mình bị sử dụng sai mục đích.\n\n
+        <b>Trách nhiệm của bạn:</b>\n
+        • Cung cấp thông tin chính xác, đầy đủ và chịu trách nhiệm về tính xác thực của thông tin.\n
+        • Thông báo ngay cho chúng tôi khi có sự thay đổi về thông tin cá nhân (ví dụ: thay đổi số điện thoại, CCCD).</string>
+
+    <!-- Điều 6 -->
+    <string name="dieu_6_title">Điều 6: Thông tin Liên hệ và Giải quyết Khiếu nại</string>
+    <string name="dieu_6_content">Mọi thắc mắc, yêu cầu hoặc khiếu nại liên quan đến chính sách bảo mật này, vui lòng liên hệ trực tiếp với chúng tôi:\n\n
+        • <b>Đại diện:</b> [Tên chủ nhà hoặc người quản lý]\n
+        • <b>Số điện thoại / Zalo:</b> [Số điện thoại]\n
+        • <b>Địa chỉ Nhà trọ Budai:</b> [Địa chỉ chi tiết]\n\n
+        Chính sách này có thể được cập nhật, sửa đổi để phù hợp với quy định của pháp luật và tình hình thực tế. Mọi thay đổi sẽ được thông báo trực tiếp đến bạn.</string>
+
+    <!-- Lời kết -->
+    <string name="tran_trong">Trân trọng,</string>
+    <string name="ket_thuc">Ban quản lý Nhà trọ Budai.</string>
+
+    <!--Điều khoản-->
+
+    <string name="terms_intro"><i>Vui lòng đọc kỹ các điều khoản và dịch vụ dưới đây. Việc bạn ký hợp đồng và dọn vào ở tại Nhà trọ Budai đồng nghĩa với việc bạn đã đọc, hiểu và đồng ý tuân thủ các quy định này.</i></string>
+
+    <!-- Điều 1 -->
+    <string name="term_1_title">Điều 1: Quy định chung</string>
+    <string name="term_1_content">
+        • Giữ gìn vệ sinh chung, không vứt rác bừa bãi tại hành lang, cầu thang và các khu vực công cộng.\n
+        • Giữ im lặng, tránh làm ồn sau 22:00 giờ đêm để không ảnh hưởng đến các phòng khác.\n
+        • Không tụ tập đông người, tổ chức ăn nhậu, cờ bạc, hoặc các hoạt động trái pháp luật trong khuôn viên nhà trọ.\n
+        • Có ý thức bảo vệ tài sản chung.
+    </string>
+
+    <!-- Điều 2 -->
+    <string name="term_2_title">Điều 2: Khách và người ở cùng</string>
+    <string name="term_2_content">
+        • Khách đến chơi phải ra về trước 23:00 giờ. Trường hợp khách ở lại qua đêm phải được sự đồng ý của chủ nhà và phải xuất trình giấy tờ tùy thân để đăng ký tạm trú.\n
+        • Nếu có thêm người ở cùng, phải báo ngay cho chủ nhà để đăng ký lại hợp đồng và điều chỉnh giá thuê theo quy định.
+    </string>
+
+    <!-- Điều 3 -->
+    <string name="term_3_title">Điều 3: Sử dụng tài sản và thiết bị</string>
+    <string name="term_3_content">
+        • Sử dụng tiết kiệm điện, nước. Tắt các thiết bị điện khi ra khỏi phòng.\n
+        • Người thuê phải chịu trách nhiệm bồi thường nếu làm hư hỏng các tài sản, trang thiết bị của nhà trọ.\n
+        • Không tự ý thay đổi, sửa chữa kết cấu phòng hoặc hệ thống điện, nước khi chưa có sự đồng ý của chủ nhà.
+    </string>
+
+    <!-- Điều 4 -->
+    <string name="term_4_title">Điều 4: Thanh toán</string>
+    <string name="term_4_content">
+        • Tiền thuê phòng và các chi phí dịch vụ (điện, nước, internet,...) được thanh toán đầy đủ từ ngày 01 đến ngày 05 hàng tháng.\n
+        • Trường hợp thanh toán chậm sau ngày 05 sẽ bị tính phí phạt theo quy định trong hợp đồng.
+    </string>
+
+    <!-- Điều 5 -->
+    <string name="term_5_title">Điều 5: Chấm dứt hợp đồng</string>
+    <string name="term_5_content">
+        • Khi muốn chấm dứt hợp đồng, người thuê phải báo trước cho chủ nhà ít nhất 30 ngày.\n
+        • Chủ nhà có quyền đơn phương chấm dứt hợp đồng nếu người thuê vi phạm các quy định của nhà trọ nhiều lần hoặc có hành vi gây mất an ninh trật tự.
+    </string>
+
+    <!-- Lời kết -->
+    <string name="terms_closing">Các điều khoản này được lập ra nhằm xây dựng một môi trường sống văn minh, an toàn và thoải mái cho tất cả mọi người. Cảm ơn sự hợp tác của bạn!</string>
+
+
+    <!--    -->
+
+    <string name="chua_co_tai_khoan"><u>Bạn chưa có tài khoản ?</u></string>
+</resources>

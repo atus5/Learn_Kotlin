@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <!--Laout cha-->
+    <LinearLayout
+        android:id="@+id/container_gt"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="100dp">
+
+
+        <!--Toolbar-->
+        <LinearLayout
+            android:id="@+id/layoutToolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/btnBack"
+                android:layout_width="70sp"
+                android:layout_height="70sp"
+                android:padding="20dp"
+                android:src="@drawable/ic_back" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#070606" />
+        <!--Nội dung-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/layoutToolbar">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                android:text="@string/gt_text"
+                android:textSize="40dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                android:text="Trong bối cảnh đô thị hóa nhanh chóng, việc tìm kiếm một không gian sống an toàn, tiện nghi và có tính kết nối đã trở thành ưu tiên hàng đầu. Thấu hiểu điều đó, Nhà trọ Budai ra đời với sứ mệnh mang đến một giải pháp an cư hoàn hảo, đáp ứng mọi nhu cầu của các bạn sinh viên và người đi làm.
+
+Vị trí đắc địa:
+Nhà trọ Budai tọa lạc tại [Địa chỉ], một vị trí chiến lược giúp bạn dễ dàng kết nối với các trục đường chính, các trường đại học, khu văn phòng và trung tâm thương mại. Chỉ mất vài phút di chuyển, bạn có thể tiếp cận mọi tiện ích cần thiết cho cuộc sống hàng ngày.
+
+Không gian sống chất lượng:
+Chúng tôi chú trọng vào việc tạo ra một môi trường sống thoải mái và riêng tư. Mỗi phòng trọ đều được thiết kế thông minh, tối ưu hóa không gian sử dụng và đảm bảo sự thông thoáng tự nhiên.
+
+Nội thất cơ bản: Giường, tủ, bàn học/làm việc.
+
+Thiết bị hiện đại: Điều hòa, nóng lạnh (tùy loại phòng).
+
+Khu vực bếp và vệ sinh riêng: Sạch sẽ, tiện lợi.
+
+Hệ thống tiện ích và dịch vụ vượt trội:
+
+An ninh tuyệt đối: Hệ thống camera giám sát hoạt động 24/7, khóa cổng vân tay thông minh, đảm bảo an toàn cho bạn và tài sản.
+
+Giờ giấc tự do: Không chung chủ, tạo sự thoải mái và chủ động về thời gian.
+
+Hạ tầng tiện ích: Wifi cáp quang tốc độ cao, chỗ để xe có mái che, sân phơi rộng rãi.
+
+Cộng đồng văn minh: Chúng tôi luôn sàng lọc kỹ lưỡng để xây dựng một cộng đồng người thuê trọ văn minh, lịch sự và tôn trọng không gian chung.
+
+Nhà trọ Budai tự hào là sự lựa chọn đáng tin cậy, mang lại cho bạn một cuộc sống ổn định để an tâm học tập và phát triển sự nghiệp."
+                android:textSize="25dp" />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

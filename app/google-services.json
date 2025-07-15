@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "713112935255",
+    "firebase_url": "https://nhatro-862cc-default-rtdb.firebaseio.com",
+    "project_id": "nhatro-862cc",
+    "storage_bucket": "nhatro-862cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713112935255:android:476b4e32794e5da4413c12",
+        "android_client_info": {
+          "package_name": "com.example.nhatrobudai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkNox9ltVxSNwoBP4Dh6Rr4v9XzX0mmts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
