@@ -1,1 +1,1 @@
-i started learn kotlin for 1 month
+a first app  when i learned Kotlin for 1 month
